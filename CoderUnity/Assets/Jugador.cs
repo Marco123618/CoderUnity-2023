@@ -14,6 +14,7 @@ public class Jugador : MonoBehaviour
     {
         Debug.Log(vida);
         Debug.Log(transform.position);
+        probandoignorarabr
     }
 
     // Update is called once per frame
